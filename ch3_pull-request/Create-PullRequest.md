@@ -12,7 +12,6 @@ In Chapter 3 - _Teamwork and Collaborative Development_ we learn how to collabo
 
    __...__
    __aaa__
-   __bbb__
 
 5. Modify the following line by removing the letters that do not belong:
 
